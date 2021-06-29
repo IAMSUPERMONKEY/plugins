@@ -15,6 +15,7 @@ import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebStorage;
 import android.webkit.WebView;
+import android.webkit.WebSettings;
 import android.webkit.WebViewClient;
 import androidx.annotation.NonNull;
 import io.flutter.plugin.common.BinaryMessenger;
